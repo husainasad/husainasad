@@ -43,6 +43,10 @@ My area of expertise and interests include Full Stack Development, Machine Learn
   <img align="left"  alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
 
+#
+
+<br/>
+
 ---
 
 ### Connect with me:
