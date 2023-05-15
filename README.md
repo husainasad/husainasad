@@ -115,7 +115,7 @@ My area of expertise and interests include Full Stack Development, Machine Learn
 ### 📫 Connect with me:
 
   <div style="display: flex; align-items: center;">
-    <a href="https://www.linkedin.com/in/asadhusain99/">
+    <a href="https://www.linkedin.com/in/asadhusain99/" target="_blank">
       <picture>
         <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" media="(prefers-color-scheme: light)">
         <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" media="(prefers-color-scheme: dark)">
@@ -129,7 +129,7 @@ My area of expertise and interests include Full Stack Development, Machine Learn
         <img src="./img/envelope-light.svg" alt="Gmail" width="35px" height="35px" style="margin-right:10px;">
       </picture>
     </a>
-    <a href="https://husainasad.github.io/">
+    <a href="https://husainasad.github.io/" target="_blank">
       <picture>
         <source srcset="./img/briefcase-light.svg" media="(prefers-color-scheme: light)">
         <source srcset="./img/briefcase-dark.png" media="(prefers-color-scheme: dark)">
