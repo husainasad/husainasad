@@ -24,39 +24,103 @@ My area of expertise and interests include Full Stack Development, Machine Learn
 
 ### Languages and Tools
 
-<div style="display:flex; flex-wrap:wrap; padding-left: 10px, padding-top:10px">
-  <img align="left" alt="CPP" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
-  <img align="left" alt="Java" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="left" alt="Python" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="left" alt="HTML" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="left" alt="CSS" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="left" alt="JavaScript" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="left" alt="React" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="left" alt="Spring" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <img align="left" alt="Flask-Light" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg#gh-light-mode-only"/>
-  <img align="left" alt="Flask-Dark" width="40px" style="margin-right:10px;" src="./img/flask-dark.png#gh-dark-mode-only"/>
-  <img align="left" alt="MySQL" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img align="left" alt="PostgreSQL" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img align="left" alt="MongoDB" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  <img align="left" alt="AWS" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
-  <img align="left" alt="Jenkins" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
-  <img align="left" alt="Android Studio" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
-  <img align="left"  alt="Git" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-</div>
+  <div style="display:flex; flex-wrap:wrap; padding-left: 10px; padding-top:10px">
+    <picture style="margin-bottom:10px">
+      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="CPP" width="35px" style="margin-right:10px;" align="left">
+    </picture>
+    <picture style="margin-bottom:10px">
+      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35px" style="margin-right:10px;" align="left">
+    </picture>
+    <picture style="margin-bottom:10px">
+      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35px" style="margin-right:10px;" align="left">
+    </picture>
+    <picture style="margin-bottom:10px">
+      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="35px" style="margin-right:10px;" align="left">
+    </picture>
+    <picture style="margin-bottom:10px">
+      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="35px" style="margin-right:10px;" align="left">
+    </picture>
+    <picture style="margin-bottom:10px">
+      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35px" style="margin-right:10px;" align="left">
+    </picture>
+    <picture style="margin-bottom:10px">
+      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="35px" style="margin-right:10px;" align="left">
+    </picture>
+    <picture style="margin-bottom:10px">
+      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="35px" style="margin-right:10px;" align="left">
+    </picture>
+    <picture style="margin-bottom:10px">
+      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
+      <source srcset="./img/flask-dark.png#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="35px" style="margin-right:10px;" align="left">
+    </picture>
+    <picture style="margin-bottom:10px">
+      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="35px" style="margin-right:10px;" align="left">
+    </picture>
+    <picture style="margin-bottom:10px">
+      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="35px" style="margin-right:10px;" align="left">
+    </picture>
+    <picture style="margin-bottom:10px">
+      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="35px" style="margin-right:10px;" align="left">
+    </picture>
+    <picture style="margin-bottom:10px">
+      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="35px" style="margin-right:10px;" align="left">
+    </picture>
+    <picture style="margin-bottom:10px">
+      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="35px" style="margin-right:10px;" align="left">
+    </picture>
+    <picture style="margin-bottom:10px">
+      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="AndroidStudio" width="35px" style="margin-right:10px;" align="left">
+    </picture>
+    <picture style="margin-bottom:10px">
+      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35px" style="margin-right:10px;" align="left">
+    </picture>
+  </div>
 
-#
+<br>
+<br>
 
-<br/>
+---
 
-### Connect with me:
+### 📫 Connect with me:
 
-<div style="display: flex; align-items: center;">
-  <a href="https://www.linkedin.com/in/asadhusain99/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" style="padding-right: 10px;"></a>
-  <a href="mailto:asad1999@gmail.com"><img src="./img/envelope-light.svg#gh-light-mode-only" alt="Gmail" width="35" height="40" style="padding-right: 10px;"></a>
-  <a href="mailto:asad1999@gmail.com"><img src="./img/envelope-dark.png#gh-dark-mode-only" alt="Gmail" width="35" height="40" style="padding-right: 10px;"></a>
-  <a href="https://husainasad.github.io/"><img src="./img/briefcase-light.svg#gh-light-mode-only" alt="Portfolio" width="35" height="40" style="padding-right: 10px;"></a>
-  <a href="https://husainasad.github.io/"><img src="./img/briefcase-dark.png#gh-dark-mode-only" alt="Portfolio" width="35" height="40" style="padding-right: 10px;"></a>
-</div>
+  <div style="display: flex; align-items: center;">
+    <a href="https://www.linkedin.com/in/asadhusain99/">
+      <picture>
+        <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+        <img src=".https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35px" height="35px" style="padding-right: 10px;">
+      </picture>
+    </a>
+    <a href="mailto:asad1999@gmail.com">
+      <picture>
+        <source srcset="./img/envelope-light.svg" media="(prefers-color-scheme: light)">
+        <source srcset="./img/envelope-dark.png" media="(prefers-color-scheme: dark)">
+        <img src="./img/envelope-light.svg" alt="Gmail" width="35px" height="35px" style="padding-right: 10px;">
+      </picture>
+    </a>
+    <a href="https://husainasad.github.io/">
+      <picture>
+        <source srcset="./img/briefcase-light.svg" media="(prefers-color-scheme: light)">
+        <source srcset="./img/briefcase-dark.png" media="(prefers-color-scheme: dark)">
+        <img src="./img/briefcase-light.svg" alt="Portfolio" width="35px" height="35px" style="padding-right: 10px;">
+      </picture>
+    </a>
+  </div>
 
 ---
 
