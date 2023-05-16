@@ -119,21 +119,21 @@ My area of expertise and interests include Full Stack Development, Machine Learn
       <picture>
         <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" media="(prefers-color-scheme: light)">
         <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" media="(prefers-color-scheme: dark)">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35px" height="35px" style="margin-right:10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35px" style="margin-right:10px;">
       </picture>
     </a>
     <a href="mailto:asad1999@gmail.com">
       <picture>
-        <source srcset="./img/envelope-light.svg" media="(prefers-color-scheme: light)">
-        <source srcset="./img/envelope-dark.png" media="(prefers-color-scheme: dark)">
-        <img src="./img/envelope-light.svg" alt="Gmail" width="35px" height="35px" style="margin-right:10px;">
+        <source srcset="./img/envelope.png" media="(prefers-color-scheme: light)">
+        <source srcset="./img/envelope.png" media="(prefers-color-scheme: dark)">
+        <img src="./img/envelope.png" alt="Gmail" width="40px" style="margin-right:10px;">
       </picture>
     </a>
     <a href="https://husainasad.github.io/" target="_blank">
       <picture>
-        <source srcset="./img/briefcase-light.svg" media="(prefers-color-scheme: light)">
-        <source srcset="./img/briefcase-dark.png" media="(prefers-color-scheme: dark)">
-        <img src="./img/briefcase-light.svg" alt="Portfolio" width="35px" height="35px" style="margin-right:10px;">
+        <source srcset="./img/folder.png" media="(prefers-color-scheme: light)">
+        <source srcset="./img/folder.png" media="(prefers-color-scheme: dark)">
+        <img src="./img/folder.png" alt="Portfolio" width="35px" style="margin-right:10px;">
       </picture>
     </a>
   </div>
