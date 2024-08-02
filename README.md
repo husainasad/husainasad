@@ -14,135 +14,76 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Syed Asad Husain
-
-I am an enthusiastic developer who is passionate about creating technological solutions that improve people's lives.
-I am seeking hands-on experience within a company that embraces creativity and innovation.
-My area of expertise and interests include Full Stack Development, Machine Learning, Deep Learning, Computer Vision and Automation.
-
----
-
-### Languages and Tools
-
-  <div style="display:flex; flex-wrap:wrap; padding-left: 10px; padding-top:10px">
-    <picture style="margin-bottom:10px">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" media="(prefers-color-scheme: light)">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" media="(prefers-color-scheme: dark)">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="CPP" width="35px" style="margin-right:10px;" align="left">
-    </picture>
-    <picture style="margin-bottom:10px">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" media="(prefers-color-scheme: light)">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" media="(prefers-color-scheme: dark)">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35px" style="margin-right:10px;" align="left">
-    </picture>
-    <picture style="margin-bottom:10px">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" media="(prefers-color-scheme: light)">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" media="(prefers-color-scheme: dark)">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35px" style="margin-right:10px;" align="left">
-    </picture>
-    <picture style="margin-bottom:10px">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" media="(prefers-color-scheme: light)">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" media="(prefers-color-scheme: dark)">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="35px" style="margin-right:10px;" align="left">
-    </picture>
-    <picture style="margin-bottom:10px">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" media="(prefers-color-scheme: light)">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" media="(prefers-color-scheme: dark)">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="35px" style="margin-right:10px;" align="left">
-    </picture>
-    <picture style="margin-bottom:10px">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" media="(prefers-color-scheme: light)">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" media="(prefers-color-scheme: dark)">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35px" style="margin-right:10px;" align="left">
-    </picture>
-    <picture style="margin-bottom:10px">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" media="(prefers-color-scheme: light)">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" media="(prefers-color-scheme: dark)">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="35px" style="margin-right:10px;" align="left">
-    </picture>
-    <picture style="margin-bottom:10px">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" media="(prefers-color-scheme: light)">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" media="(prefers-color-scheme: dark)">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="35px" style="margin-right:10px;" align="left">
-    </picture>
-    <picture style="margin-bottom:10px">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
-      <source srcset="./img/flask-dark.png#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="35px" style="margin-right:10px;" align="left">
-    </picture>
-    <picture style="margin-bottom:10px">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" media="(prefers-color-scheme: light)">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" media="(prefers-color-scheme: dark)">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="35px" style="margin-right:10px;" align="left">
-    </picture>
-    <picture style="margin-bottom:10px">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" media="(prefers-color-scheme: light)">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" media="(prefers-color-scheme: dark)">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="35px" style="margin-right:10px;" align="left">
-    </picture>
-    <picture style="margin-bottom:10px">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" media="(prefers-color-scheme: light)">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" media="(prefers-color-scheme: dark)">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="35px" style="margin-right:10px;" align="left">
-    </picture>
-    <picture style="margin-bottom:10px">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" media="(prefers-color-scheme: light)">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" media="(prefers-color-scheme: dark)">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="35px" style="margin-right:10px;" align="left">
-    </picture>
-    <picture style="margin-bottom:10px">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" media="(prefers-color-scheme: light)">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" media="(prefers-color-scheme: dark)">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="35px" style="margin-right:10px;" align="left">
-    </picture>
-    <picture style="margin-bottom:10px">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" media="(prefers-color-scheme: light)">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" media="(prefers-color-scheme: dark)">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="AndroidStudio" width="35px" style="margin-right:10px;" align="left">
-    </picture>
-    <picture style="margin-bottom:10px">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" media="(prefers-color-scheme: light)">
-      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" media="(prefers-color-scheme: dark)">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35px" style="margin-right:10px;" align="left">
-    </picture>
-  </div>
-
-<br>
-<br>
-
----
+## About Me:
+Hi! My Name is Syed Asad Husain
+I am a passionate developer focused on driving outcomes and creating value through technology.
+I seek hands-on experience within an organization that values creativity and innovation.
+I specialize in building scalable and secure applications, with a focus on cloud infrastructure and optimizing CI/CD pipelines to ensure efficient and reliable deployment.
 
 ### 📫 Connect with me:
 
-  <div style="display: flex; align-items: center;">
-    <a href="https://www.linkedin.com/in/asadhusain99/" target="_blank">
-      <picture>
-        <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" media="(prefers-color-scheme: light)">
-        <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" media="(prefers-color-scheme: dark)">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35px" style="margin-right:10px;">
-      </picture>
-    </a>
-    <a href="mailto:asad1999@gmail.com">
-      <picture>
-        <source srcset="./img/envelope.png" media="(prefers-color-scheme: light)">
-        <source srcset="./img/envelope.png" media="(prefers-color-scheme: dark)">
-        <img src="./img/envelope.png" alt="Gmail" width="40px" style="margin-right:10px;">
-      </picture>
-    </a>
-    <a href="https://husainasad.github.io/" target="_blank">
-      <picture>
-        <source srcset="./img/folder.png" media="(prefers-color-scheme: light)">
-        <source srcset="./img/folder.png" media="(prefers-color-scheme: dark)">
-        <img src="./img/folder.png" alt="Portfolio" width="35px" style="margin-right:10px;">
-      </picture>
-    </a>
-  </div>
+<div style="display: flex; align-items: center;">
+  <a href="https://www.linkedin.com/in/asadhusain99/" target="_blank">
+    <picture>
+      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" media="(prefers-color-scheme: light)">
+      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" media="(prefers-color-scheme: dark)">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35px" style="margin-right:10px;">
+    </picture>
+  </a>
+  <a href="mailto:asad1999@gmail.com">
+    <picture>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40px" style="margin-right:10px;">
+    </picture>
+  </a>
+</div>
 
----
+### Languages, Tools, and Frameworks:
 
-<details>
-  <summary>📊 GitHub Stats</summary>
+<div>
 
-  <img align="left" alt="husainasad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=husainasad&count_private=true&show_icons=true&hide=issues,contribs&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+#### Languages:
 
-</details>
+| Python | JavaScript | Java | C++ | Bash |
+|--------|------------|------|-----|------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="55" height="55"/> |
+
+#### Development Technologies:
+
+| HTML | CSS | Tailwind | D3 | React | Django | FastAPI | Flask | Spring Boot | Android Studio |
+|------|-----|----------|----|-------|--------|---------|-------|-------------|----------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/d3js/d3js-original.svg" title="D3" alt="D3" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django" alt="Django" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="55" height="55"/> |
+
+#### Databases:
+
+| MySQL | PostgreSQL | MongoDB |
+|-------|------------|---------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/> |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> |
+
+#### Cloud & DevOps Infrastructure:
+
+| AWS | GCP | Nginx | Terraform | Jenkins | Docker | Kubernetes | GitHub Actions | GitHub | Git |
+|-----|-----|-------|-----------|---------|--------|------------|----------------|--------|-----|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="55" height="55"/> |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> |
+
+#### Operating Systems:
+
+| Linux | Ubuntu | Windows |
+|-------|--------|---------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
+
+</div>
+
+### GitHub Stats:
+
+<div style="text-align: center;">
+    <table style="margin: auto;">
+        <tr>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api?username=husainasad&count_private=true&show_icons=true&theme=tokyonight"/>
+            </td>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husainasad&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+            </td>
+        </tr>
+    </table>
+</div>
